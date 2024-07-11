@@ -44,8 +44,7 @@ App Component (App.js) enables navigation using DrawerNavigator and StackNavigat
 
 
 # Screenshots
-![alt text](Project7/assets/Screenshot/ss1.jpg) 
-![alt text](Project7/assets/Screenshot/ss2.jpg) 
-![alt text](Project7/assets/Screenshot/ss3.jpg) 
-![alt text](Project7/assets/Screenshot/ss4.jpg) 
-![alt text](Project7/assets/Screenshot/ss5.jpg)
+![alt text](Project7/assets/Screenshot/ss1.png) 
+![alt text](Project7/assets/Screenshot/ss2.png) 
+![alt text](Project7/assets/Screenshot/ss3.jpeg) 
+![alt text](Project7/assets/Screenshot/ss4.jpeg)
